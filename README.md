@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C8CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ksaikiran129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:Ksaikiran129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Hyderabad,%20India-1F2937?style=for-the-badge&logo=googlemaps&logoColor=7C8CFF" alt="Hyderabad, India" />
@@ -34,6 +35,8 @@ Most of my work sits where the demos stop: agent orchestration, tool protocols, 
 ---
 
 ## 🚀 What I'm building
+
+<sub>📖 Full architecture breakdowns for each of these → **[saikiran-kolchelma-portfolio.vercel.app/projects](https://saikiran-kolchelma-portfolio.vercel.app/projects)**</sub>
 
 ### 🏗️ &nbsp;Enterprise Agentic Platform
 A **provider-agnostic LLM gateway** across OpenAI, IBM watsonx and Meta Llama — model choice becomes configuration, not a rewrite. **MCP servers** over SSE and stdio so every agent reaches tools the same way. **Three-tier agent memory** (short-term, long-term, episodic). **Guardrails** for PII/PHI, jailbreaks, bias and prompt injection. And an **LLM-as-judge harness** scoring responses against a labelled set, because *"the agent got better"* is otherwise just an opinion.
@@ -136,7 +139,8 @@ Not every query deserves the biggest model. A **fine-tuned DeBERTa-v3** complexi
 
 **RAG systems** · **AI agents** · **MCP tool servers** · **Natural-language-to-SQL** · **Guardrails** · **LLM evaluation**
 
-<a href="mailto:Ksaikiran129@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-7C8CFF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's talk" /></a>
+<a href="https://saikiran-kolchelma-portfolio.vercel.app/freelance"><img src="https://img.shields.io/badge/View%20Services-7C8CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Freelance services" /></a>
+<a href="mailto:Ksaikiran129@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-10B981?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Let's talk" /></a>
 
 <br/><br/>
 
