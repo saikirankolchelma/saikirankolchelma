@@ -1,9 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C8CFF,100:22D3EE&height=180&section=header&text=Kolchelma%20Sai%20Kiran&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Generative%20AI%20%26%20Agentic%20Systems&descAlignY=55&descSize=18" alt="Kolchelma Sai Kiran — AI/ML Engineer" />
-
 <div align="center">
 
-<a href="https://github.com/saikirankolchelma">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7C8CFF&center=true&vCenter=true&width=700&lines=Building+agents+that+survive+contact+with+real+tools;Retrieval+that+works+when+the+answer+lives+between+records;Guardrails%2C+evaluation%2C+and+the+parts+nobody+demos" alt="Typing SVG" />
+# Kolchelma Sai Kiran
+
+### 🤖 &nbsp;AI/ML Engineer · Generative AI & Agentic Systems
+
+<a href="https://saikiran-kolchelma-portfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=7C8CFF&center=true&vCenter=true&width=720&lines=Building+agents+that+survive+contact+with+real+tools;Retrieval+that+works+when+the+answer+lives+between+records;Guardrails%2C+evaluation%2C+and+the+parts+nobody+demos" alt="Building agents that survive contact with real tools" />
 </a>
 
 <br/>
@@ -147,5 +149,3 @@ Not every query deserves the biggest model. A **fine-tuned DeBERTa-v3** complexi
 *⚡ Ask me about agent memory, graph retrieval, or why your RAG fails on comparative questions.*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C8CFF&height=120&section=footer" alt="" />
