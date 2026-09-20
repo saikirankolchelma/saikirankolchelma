@@ -1,62 +1,65 @@
-<p align="left">👋 Hi there! I'm   Kolchelma Sai Kiran</p>
+<h1 align="left">Kolchelma Sai Kiran</h1>
 
-###
+<p align="left">
+  <strong>AI/ML Engineer — Generative AI & Agentic Systems</strong><br/>
+  Hyderabad, India
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ksaikiran129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Ksaikiran129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-###
+---
 
-<p align="left">Data Scientist | AI &ML Engineer | AI Enthusiast<br><br>a passionate Data Scientist and Machine Learning Engineer with hands-on experience in AI, NLP, Deep Learning, and Data Analytics. I specialize in building scalable ML solutions, deploying LLMs and AI-driven applications, and optimizing business decisions using data-driven insights.</p>
+I build enterprise Generative AI, agentic and RAG systems — currently as an **ML Associate at Avira Digital Technologies**, working on an internal agentic AI platform and client retrieval systems in the pharmaceutical domain.
 
-###
+Most of what I work on sits in the unglamorous middle of an AI system: agent orchestration, tool protocols, retrieval that holds up when the answer lives between records rather than inside one, safety guardrails, and the evaluation harnesses that tell you whether any of it actually improved.
 
-<p align="left">💡 What I Do:<br><br>Developing end-to-end machine learning and deep learning applications<br>Working with Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Hugging Face  and  Langchain<br>Deploying ML models using Flask, Docker, Kubernetes, and AWS<br>Exploring Generative AI, NLP, and Large Language Models (LLMs)<br>Teaching Machine Learning & Data Science via my platform, Mr. Tech Scholar<br>🛠 Tech Stack:<br>✔️ Languages: Python, SQL, Java , Vector Data Bases (Chroma DB , Pinecone)<br>✔️ Data Analytics & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI<br>✔️Ai and  ML  :   Statistics and Probability , Deep Learning,  NLP , LLM's , Generative  Ai  [GPT, RAG's ].<br>✔️ Libraries & Frameworks: Scikit-learn, TensorFlow, PyTorch, Flask<br>✔️ DevOps & Cloud: Git, Docker, Kubernetes, AWS, Azure, <br>✔️ Others: Data Structures & Algorithms (DSA), CI/CD, Web Scraping<br><br>📌 GitHub Highlights:<br>🔹 End-to-end ML/DL projects<br>🔹 Data Science & AI repositories<br>🔹 NLP & LLM-based applications<br>🔹 Deployment-ready ML solutions<br><br>🎯 Currently Working On:<br>🚀 Building AI-driven solutions for real-world problems<br>📚 Creating ML & AI educational content<br>🌎 Exploring the latest in LLMs & Generative AI</p>
+---
 
-###
+### What I'm working on
 
-<p align="left">📬 Let's Connect!<br><br>💻 GitHub: [Your GitHub Profile Link]<br>📧 Email: ksaikiran129@gmail.com<br>📌 LinkedIn: https://www.linkedin.com/in/ksaikiran129/</p>
+**Enterprise agentic platform** — a provider-agnostic LLM gateway across OpenAI, IBM watsonx and Meta Llama; MCP servers over SSE and stdio so tool access is standardised; short-term, long-term and episodic agent memory; input/output guardrails for PII/PHI, jailbreaks, bias and prompt injection; and an LLM-as-judge harness scoring responses against a labelled dataset.
 
-###
+**Clinical knowledge graph RAG** — started as metadata-aware hybrid retrieval (dense + BM25) over clinical trial, drug and disease data. It worked for lookups and failed on relationship questions, because many-to-many drug–disease–dosage links do not survive chunking. Redesigned around Neo4j with agent-driven natural-language-to-Cypher and NL-to-Gremlin translation.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
+**Agentic data structuring** — 10+ specialised LangGraph agents under an orchestrator, handling sentiment analysis, thematic clustering and entity extraction, with MCP schema-introspection tools so downstream agents generate SQL against the live schema rather than a stale snapshot.
 
-###
+**Meta-RAG** *(self-directed)* — an adaptive inference gateway that routes queries by complexity. A fine-tuned DeBERTa-v3 classifier drives a three-tier dispatcher across naive, parent-document and HyDE retrieval; an LLM judge scores strategies in shadow mode off the serving path, and Optuna tunes the routing thresholds against an accuracy SLA.
 
-<img align="left" height="150" src="https://miro.medium.com/v2/resize:fit:800/0*NERdeMelL1W6HdZM.gif"  />
+---
 
-###
+### Tech
 
-<img align="left" height="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClRItL94nMQbCaAqNnwEYVrgWOR5WTeoeMw&s"  />
+**Languages** &nbsp;Python · SQL
 
-###
+**Generative AI** &nbsp;LangGraph · LangChain · CrewAI · MCP · Multi-Agent Orchestration · RAG · Graph RAG · LLM Evaluation · Guardrails
 
-<img align="right" height="130" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-gear-1-converted-2019-10.gif"  />
+**Machine Learning** &nbsp;PyTorch · Transformers · Scikit-learn · TensorFlow · Deep Learning · NLP · Computer Vision · LLM Fine-Tuning
 
-###
+**Data & Retrieval** &nbsp;Neo4j · AWS Neptune · Cypher · Gremlin · PostgreSQL · MySQL · Qdrant · FAISS · Pinecone · BM25 · Hybrid Search
+
+**Backend & Cloud** &nbsp;FastAPI · Docker · AWS (EC2, S3, SageMaker, Bedrock) · Redis · MLflow · Optuna · Git
+
+**Data & BI** &nbsp;NumPy · Pandas · Matplotlib · Power BI · Streamlit
+
+---
+
+### Currently exploring
+
+Agent reliability — planning, memory, and what happens when a tool call fails. Retrieval past the naive baseline. Evaluation infrastructure, because it is the part that compounds. Cost and latency as design constraints rather than afterthoughts.
+
+---
+
+### Background
+
+**B.Tech, Computer Science** (Data Science specialisation) — TKR College of Engineering and Technology, 2021–2024
+
+NPTEL certifications from IIT Madras and IIT Guwahati · 1st place, AIML EduNext Hackathon
+
+---
+
+**Open to selected freelance AI/ML projects** — RAG systems, AI agents, MCP tool servers, natural-language-to-SQL, guardrails and LLM evaluation.
+
+📧 [Ksaikiran129@gmail.com](mailto:Ksaikiran129@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ksaikiran129/)
