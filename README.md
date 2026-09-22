@@ -18,6 +18,18 @@
 
 </div>
 
+<div align="center">
+
+### ⚡ Live systems &nbsp;<sub>*(these badges read my deployment in real time — not hardcoded)*</sub>
+
+<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.assistant&label=AI%20Assistant&color=10B981&style=for-the-badge" alt="AI%20Assistant" /></a>
+<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.voice&label=Voice%20Agent&color=22D3EE&style=for-the-badge" alt="Voice%20Agent" /></a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.model&label=Model&color=4285F4&style=for-the-badge" alt="Model" />
+<a href="https://saikiran-kolchelma-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.projects&label=Projects&color=7C8CFF&style=for-the-badge" alt="Projects" /></a>
+<a href="https://saikiran-kolchelma-portfolio.vercel.app/freelance"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.availability&label=Freelance&color=F59E0B&style=for-the-badge" alt="Freelance" /></a>
+
+</div>
+
 ---
 
 ## 🧠 About
@@ -166,6 +178,37 @@ Not every query deserves the biggest model. A **fine-tuned DeBERTa-v3** complexi
 </div>
 
 ---
+
+---
+
+## 💙 Why I'm in this
+
+I got into AI through the modelling and stayed for the **engineering**.
+
+The part that keeps me here isn't that a model can write a paragraph — it's that building a system around one forces you to answer questions software usually lets you dodge. *How do you know it's right?* *What does it do when the tool call fails?* *What happens when someone tries to talk it out of its instructions?* Those aren't prompt problems. They're architecture problems, and they're genuinely hard. 🧠
+
+So I spend my time on the boring-sounding layers — retrieval that survives real queries, guardrails that hold, evaluation you can regress against — because that's the difference between a demo and something a pharmaceutical client can actually depend on. ⚗️
+
+> *Favourite bug so far:* a RAG pipeline that aced every lookup and quietly failed every comparative question. The answer wasn't in any chunk — it was in the relationships **between** them. That one rewrite taught me more than a year of tutorials. 🕸️
+
+---
+
+## 🌐 Find me
+
+<div align="center">
+
+<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C8CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ksaikiran129/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/saikirankolchelma"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:Ksaikiran129@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=saikirankolchelma&style=flat-square&color=7C8CFF&label=Profile+views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/saikirankolchelma?style=flat-square&color=7C8CFF&labelColor=1F2937" alt="GitHub followers" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app&style=flat-square&up_message=live&up_color=10B981&down_message=down&label=portfolio" alt="Portfolio status" />
+
+</div>
 
 <div align="center">
 
