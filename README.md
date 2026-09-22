@@ -18,18 +18,6 @@
 
 </div>
 
-<div align="center">
-
-### ⚡ Live systems &nbsp;<sub>*(these badges read my deployment in real time — not hardcoded)*</sub>
-
-<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.assistant&label=AI%20Assistant&color=10B981&style=for-the-badge" alt="AI%20Assistant" /></a>
-<a href="https://saikiran-kolchelma-portfolio.vercel.app"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.voice&label=Voice%20Agent&color=22D3EE&style=for-the-badge" alt="Voice%20Agent" /></a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.model&label=Model&color=4285F4&style=for-the-badge" alt="Model" />
-<a href="https://saikiran-kolchelma-portfolio.vercel.app/projects"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.projects&label=Projects&color=7C8CFF&style=for-the-badge" alt="Projects" /></a>
-<a href="https://saikiran-kolchelma-portfolio.vercel.app/freelance"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsaikiran-kolchelma-portfolio.vercel.app%2Fapi%2Fstatus&query=%24.availability&label=Freelance&color=F59E0B&style=for-the-badge" alt="Freelance" /></a>
-
-</div>
-
 ---
 
 ## 🧠 About
