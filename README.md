@@ -24,7 +24,7 @@
 
 ```python
 class SaiKiran:
-    role      = "ML Associate @ Avira Digital Technologies"
+    role      = "AIML Associate @ Avira Digital Technologies"
     focus     = ["Agentic AI", "Graph RAG", "LLM Evaluation", "Guardrails"]
     domain    = ["Pharmaceutical", "Business Intelligence"]
     obsession = "the unglamorous middle of an AI system"
